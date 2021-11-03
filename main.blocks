@@ -1,22 +1,22 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="$9oHIh(JUWj-XO#0,.(P" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_clear_display" id="Df5@dXTz(5z8NO;f*P]S"/></statement></block><block type="device_button_event" id="K`J*)g]gzg)||L9w:Prn" x="-35" y="204"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="2LGEG8v$.DvN+*%I!vSp"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="TbJ.}QK?,_?]CV4,x`9]" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_clear_display" id="+,EOW{r!bb=sJsNRctBh"/></statement></block><block type="device_button_event" id="j(i?Ra{u]*D?RL9iV!-x" x="-35" y="204"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="7kK931wZK1b!(rS-hUxe"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field></block></statement></block><block type="device_button_event" id="O,fU!v5o+zJ,sl%YFzUf" x="-31" y="562"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="/?)w!ay,rKT/t6T6O[wk"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="Aq3Z4tl|I?2*UJbIX`CO" x="-31" y="562"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="=iQpjfyI57PfhKCkKDxc"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         . # # # . 
         # . . . #
-        `</field></block></statement></block><block type="device_button_event" id="R3Sh`hCc|~T:HTbKIpSG" x="-30" y="900"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="QK)mOb1{7FdjixwbeHpe"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="UI{8n]Ez+T/HhJx/%zjm" x="-30" y="900"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="m9m9*x4vjzDMTXB%O:8S"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field><next><block type="device_show_leds" id="99V=5k:E`:9pdWoi@]E%"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="!xG-`d}s,y-b~7vJ3:vO"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
